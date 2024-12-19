@@ -7,19 +7,6 @@ public class demo
 		System.out.println("Hi");
 		System.out.println("Hello");
 		System.out.println("gm");
-		
-		//hi
-		//hello
-		//gm
-		
-		
-//		System.out.print("Hi");
-//		System.out.print("Hello");
-//		System.out.print("gm");
-		
-		
-		
-		//hihellogm
 	}
 
 }
